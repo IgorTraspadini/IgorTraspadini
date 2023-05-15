@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋, I'm Igor Traspadini</h1>
+<h1 align="center">Hi There 👋, I'm Igor</h1>
 <h3 align="center">A passionate Engineer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=igortraspadini&label=Profile%20views&color=0e75b6&style=flat" alt="igortraspadini" /> </p>
@@ -10,7 +10,7 @@
 
 - 👷‍♂️ I’m currently working on Stoneglow
 
-- 🔥 Interested in **Data Science**, **Cloud Computing**, **Process Improvement** and **Data Engineering** 
+- 🔥 Interested in **Data Science**, **Process Improvement**, **Data Engineering** and **Cloud Computing** 
 
 **Working**
 
