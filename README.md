@@ -8,7 +8,7 @@
 
 **Bio**
 
-- 👷‍♂️ I’m currently working on Stoneglow
+<!-- - 👷‍♂️ I’m currently working on Stoneglow -->
 
 - 🔥 Interested in **Data Science**, **Process Improvement**, **Data Engineering** and **Cloud Computing** 
 
