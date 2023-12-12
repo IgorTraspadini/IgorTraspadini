@@ -8,15 +8,14 @@
 
 **Bio**
 
-<!-- - 👷‍♂️ I’m currently working on Stoneglow -->
-
-- 🔥 Interested in **Data Science**, **Process Improvement**, **Data Engineering** and **Cloud Computing** 
+<!-- - 👷‍♂️ I’m currently working on  -->
+- 🔥 Interested in **Data Science**, **Data Engineering**, **Process Improvement**  and **Cloud Computing** 
 
 **Working**
 
 🚀 I use daily: <code>.py</code>, <code>.sql</code>, <code>.sh</code>, <code>.vb</code>, <code>.xlsx</code>
 
-✅ Learning every day about **Cloud Computing**
+✅ Learning every day about **Cloud Computing** and **Generative AI**
 
 
 **Community**
