@@ -59,7 +59,11 @@
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th?id=ABTA520CD5929E3D64E936ED087B64C6F789D842112EB67213E5297687BA7A645F9&w=80&h=80&o=6&dpr=2&pid=5.1" alt="R" width="40" height="40"/> </a> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python" width="40" height="40"/> </a>
 </a> </p>
-<p><a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jquery&theme=light" alt="jQuery" width="40" height="40"/> </a>
+<p>
+<a href="https://css" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css&theme=light" alt="css" width="40" height="40"/> </a>
+<a href="https://html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html&theme=light" alt="html" width="40" height="40"/> </a>
+<a href="https://js" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js&theme=light" alt="js" width="40" height="40"/> </a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jquery&theme=light" alt="jQuery" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igortraspadini&show_icons=true&locale=en&layout=compact" alt="igortraspadini" /></p>
