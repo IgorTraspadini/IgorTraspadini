@@ -63,6 +63,8 @@
 <a href="https://css" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css&theme=light" alt="css" width="40" height="40"/> </a>
 <a href="https://html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html&theme=light" alt="html" width="40" height="40"/> </a>
 <a href="https://js" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js&theme=light" alt="js" width="40" height="40"/> </a>
+<a href="https://bs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django&theme=light" alt="django" width="40" height="40"/> </a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jquery&theme=light" alt="jQuery" width="40" height="40"/> </a>
 </p>
 
