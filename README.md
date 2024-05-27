@@ -70,8 +70,11 @@
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jquery&theme=light" alt="jQuery" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igortraspadini&show_icons=true&locale=en&layout=compact" alt="igortraspadini" /></p>
+[![Igor's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igortraspadini&size_weight=0.25&count_weight=0.5&layout=donut&theme=highcontrast&langs_count=8)](https://github.com/igortraspadini)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igortraspadini&show_icons=true&locale=en" alt="igortraspadini" /></p>
+[![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=igortraspadini&show_icons=true&theme=highcontrast)](https://github.com/igortraspadini)
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igortraspadini&show_icons=true&locale=en&layout=compact" alt="igortraspadini" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igortraspadini&" alt="igortraspadini" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igortraspadini&show_icons=true&locale=en" alt="igortraspadini" /></p> -->
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igortraspadini&" alt="igortraspadini" /></p> -->
