@@ -8,7 +8,7 @@
 
 **Bio**
 
-👷‍♂️ I’m currently working on HL Display and DIFOKO IT Solutions
+👷‍♂️ I’m currently working on HL Display
 - 🔥 Interested in **Data Science**, **Data Engineering**, **Process Improvement**  and **Cloud Computing** 
 
 **Working**
