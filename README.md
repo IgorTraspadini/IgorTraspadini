@@ -9,7 +9,7 @@
 **Bio**
 
 👷‍♂️ I’m currently working on HL Display
-- 🔥 Interested in **Data Science**, **Data Engineering**, **Process Improvement**  and **Cloud Computing** 
+- 🔥 Interested in **Data Science**, **Data Engineering**, **Software Development**  and **Cloud Computing** 
 
 **Working**
 
