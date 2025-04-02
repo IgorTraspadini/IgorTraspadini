@@ -13,7 +13,7 @@
 
 **Working**
 
-<!-- 🚀 I use daily: <code>.py</code>, <code>.sql</code>, <code>.sh</code>, <code>.vb</code>, <code>.xlsx</code> -->
+🚀 I use daily: <code>.py</code>, <code>.sql</code>, <code>.sh</code>, <code>.vb</code>, <code>.xlsx</code>
 
 ✅ Learning every day about **Cloud Computing** and **Generative AI**
 
